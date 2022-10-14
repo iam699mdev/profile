@@ -3,12 +3,12 @@
 
 /*===== VARIABLES CSS =====*/
 :root{
-    --header-height: 3rem;
-    --font-medium: 500;
+    --header-height: 7rem;
+    --font-medium: 50;
 }
 /*===== Colores =====*/
 :root{
-    --first-color: #5361FF;
+    --first-color: #7361FF;
     --white-color: #FAFAFF;
     --dark-color: #2a3b47;
     --text-color: #697477;
@@ -17,24 +17,24 @@
 :root{
     --body-font: 'Montserrat', sans-serif;
 
-    --big-font-size: 6.25rem;
-    --h2-font-size: 1.25rem;
-    --normal-font-size: .938rem;
-    --small-font-size: .813rem;
+    --big-font-size: 6.5rem;
+    --h2-font-size: 1.2rem;
+    --normal-font-size: .838rem;
+    --small-font-size: .811rem;
 
-    @media screen and (min-width: 768px){
+    @media screen and (min-width: 748px){
         --big-font-size: 10.5rem;
-        --h2-font-size: 2rem;
-        --normal-font-size: 1rem;
-        --small-font-size: .875rem;
+        --h2-font-size: 8rem;
+        --normal-font-size: 1.5rem;
+        --small-font-size: .835rem;
     }
 }
 /*===== Margenes =====*/
 :root{
     --mb-1: 0.5rem;
-    --mb-2: 1rem;
-    --mb-3: 1.5rem;
-    --mb-4: 2rem;
+    --mb-2: .076rem;
+    --mb-3: 1.2rem;
+    --mb-4: 4rem;
 }
 /*===== z index =====*/
 :root{
